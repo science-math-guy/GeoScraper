@@ -1,4 +1,4 @@
-# GeoScraper 🛰
+# GeoScraper 🌎 💻
 GeoScraper Tools (BETA)
 
 - IP Adress Locator
